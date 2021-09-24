@@ -136,8 +136,8 @@ Grid
   box-sizing: border-box;
 }
 body {
-  background-color: #0d080e;
-  background-image: url("img/forest.jpg");
+  background-color: #000000;
+  background-image: url("img/background1.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: top;
